@@ -21,7 +21,7 @@ div.ex {
 			<table style="with: 50%">
 				<tr>
 					<td>Student First and Last Name</td>
-					<td><input type="text" name="full name"/></td>
+					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
 					<td>Student Father Name</td>
